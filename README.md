@@ -1,4 +1,6 @@
 # Learn Z Test 
+# Web Site Link : 
+https://z-test-learn-eap3xktfhqf8ysvu9zuune.streamlit.app/ 
 ![image](https://github.com/gauravprajapat29/Z-Test-Learn/assets/117170702/a5661811-9df6-472b-a4a2-ffe6d51a0791)
 # Hypothesis testing
 Hypothesis testing is a statistical method used to make inferences about population parameters based on sample data it involves formulating two competing hypotheses a null hypothesis h 0 and an alternative hypothesis ha and then using sample data to determine whether there is enough evidence to reject the null hypothesis in favor of the alternative hypothesis.
